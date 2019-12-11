@@ -1,3 +1,8 @@
 This is line 1.
-This is edit 1 (master).
 This is edit 2 (master).
+This is edit 1(feature).
+This is edit 1(feature).
+This is edit 2(feature).
+This is edit 2(feature).
+This is edit 3(feature).
+This is edit 4(feature).
